@@ -1,4 +1,4 @@
-# 🌏 ASEAN CO₂ Emission Forecast Dashboard
+# 🌏 ASEAN CO₂ Emission Dashboard
 
 This interactive Streamlit dashboard visualizes and analyzes **CO₂ emissions per capita across ASEAN countries** from historical data, providing insights into emission trends and regional differences.
 
