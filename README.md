@@ -47,13 +47,14 @@ The dashboard is deployed using **Streamlit Community Cloud**:
 ---
 
 ## 🧩 Folder Structure
+```plaintext
 ASEAN-CO2-Emission-Dashboard/
 │
 ├── dashboard.py
 ├── co2_emission_asean_clean.csv
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
